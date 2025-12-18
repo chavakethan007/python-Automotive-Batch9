@@ -3,3 +3,6 @@ squares=[x**2 for x in numbers]
 cubes=[x**3 for x in numbers]
 print(squares)
 print(cubes)
+
+numbers.insert(1,4)
+print(numbers)
