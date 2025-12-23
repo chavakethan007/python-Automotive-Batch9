@@ -9,6 +9,9 @@ def multiplication(x,y):
 
 def division(x,y):
     if y==0:
-        print("Error!")
+        return ZeroDivisionError
     else:
         return x/y
+    
+def power(x,y):
+    return x**y
