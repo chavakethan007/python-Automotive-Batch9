@@ -1,0 +1,14 @@
+<healthissues>
+    <problem>
+        <Issue>Fever</Issue>
+    </problem>
+    <problem>
+        <Issue>Severe Cough</Issue>
+    </problem>
+    <problem>
+        <Issue>Asthama</Issue>
+    </problem>
+    <problem>
+        <Issue>Kindney stone</Issue>
+    </problem>
+</healthissues>
