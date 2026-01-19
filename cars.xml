@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Cars>
+  <Car>
+    <CarName>Mahindra</CarName>
+    <Mileage>16</Mileage>
+    <FuelConsumption>6.5</FuelConsumption>
+  </Car>
+  <Car>
+    <CarName>Tata</CarName>
+    <Mileage>18</Mileage>
+    <FuelConsumption>5.8</FuelConsumption>
+  </Car>
+  <Car>
+    <CarName>Hyundai</CarName>
+    <Mileage>20</Mileage>
+    <FuelConsumption>5.2</FuelConsumption>
+  </Car>
+</Cars>
