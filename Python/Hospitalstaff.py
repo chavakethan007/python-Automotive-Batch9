@@ -52,14 +52,13 @@ class Receptionist(Hospital_staff):
         total = self.salary + self.festival_bonus
         print(f"Receptionist Salary: {total}")
 
-
 # -------- User Input --------
 staff_list = []
 
 n = int(input("Enter number of staff members: "))
 
 for i in range(n):
-    print("\n1. Doctor\n2. Nurse\n3. Receptionist")
+    print("\n1.Doctor\n2.Nurse\n3 Receptionist")
     choice = int(input("Choose staff type: "))
 
     name = input("Enter name: ")
@@ -80,8 +79,6 @@ for i in range(n):
     else:
         print("Invalid choice")
 
-
-# -------- Display Output --------
 print("\n--- Staff Details ---")
 for staff in staff_list:
     staff.get_duties()
