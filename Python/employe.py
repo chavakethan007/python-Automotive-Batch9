@@ -9,4 +9,3 @@ for i in range(m):
         office[manager].append(employee)
         office[manager]=list(set(office[manager]))
     
-print(office)
